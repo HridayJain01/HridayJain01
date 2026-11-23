@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=I+am+Hriday+the+Jain+the+smart+the+boy+🧠;Full-stack+dev+who+ships+fun+stuff+🚀;Turning+coffee+into+commits+☕➡️💻;Currently+building+bugs+and+fixing+them+🐛" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=I+am+Hriday+the+Jain+the+smart+the+boy;Full-stack+dev+who+ships+fun+stuff;Turning+coffee+into+commits;Currently+building+bugs+and+fixing+them" alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=HridayJain01&label=Humans%20who%20got%20lost%20here&color=ff69b4&style=flat" />
 
