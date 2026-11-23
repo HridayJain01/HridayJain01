@@ -52,6 +52,15 @@ const hriday = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HridayJain01&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
+### 🐍 Snake eating my contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HridayJain01/HridayJain01/output/snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/HridayJain01/HridayJain01/output/snake.svg" />
+  </picture>
+</p>
+
 ### 😂 Joke of the day
 
 <p align="center">
