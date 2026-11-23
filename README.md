@@ -1,23 +1,68 @@
-# 💫 About Me:
-Hi I am Hriday Jain an exploring software engineer.<br>I have brushed up skills in Frontend Development and can work on backend as well<br>Java and Python are base languages and I am quite proficient in it.<br>Currently working on Desktop Assistant using voice command <br>Please have a look at my previous projects and my profile!!<br>
+<!-- header wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hey,%20I'm%20Hriday!%20👋&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%"/>
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hridayyyy_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hriday-jain-5791071a6/) 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=I+am+Hriday+the+Jain+the+smart+the+boy+🧠;Full-stack+dev+who+ships+fun+stuff+🚀;Turning+coffee+into+commits+☕➡️💻;Currently+building+bugs+and+fixing+them+🐛" alt="Typing SVG" /></a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HridayJain01&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HridayJain01&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HridayJain01&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://komarev.com/ghpvc/?username=HridayJain01&label=Humans%20who%20got%20lost%20here&color=ff69b4&style=flat" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HridayJain01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧃 About me (the speedrun version)
+
+```js
+const hriday = {
+  role:        "Software engineer / professional googler",
+  codesIn:     ["TypeScript", "JavaScript", "Python", "Java"],
+  building:    ["Poker 🃏", "Traitors 🕵️", "self-healing data pipelines 🩹"],
+  funFact:     "My code works. I don't know why. Please don't touch it.",
+  askMeAbout:  ["frontend", "backend", "why it worked on my machine"],
+};
+```
+
+### 🎮 Things I've cooked
+
+| 🍳 Project | 🧂 What it is |
+|---|---|
+| [**1Poker**](https://github.com/HridayJain01/1Poker) | Poker, but I wrote it, so the house always loses |
+| [**traitors**](https://github.com/HridayJain01/traitors) | Trust no one. Not even the code. |
+| [**self-healing-elt**](https://github.com/HridayJain01/self-healing-elt) | Data pipelines that fix themselves (unlike me) |
+| [**QuickStock**](https://github.com/HridayJain01/QuickStock) | Inventory, but quick ⚡ |
+| [**portfolio**](https://github.com/HridayJain01/portfolio) | Proof that I exist |
+
+### 🛠️ My toybox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,c,cpp,react,nextjs,nodejs,express,tailwind,vite,mongodb,html,css,figma,haskell,perl&perline=9" />
+</p>
+
+### 📊 Proof I touch grass sometimes (I don't)
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HridayJain01&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HridayJain01&layout=compact&theme=radical&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HridayJain01&theme=radical&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HridayJain01&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</p>
+
+### 😂 Joke of the day
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" />
+</p>
+
+### 🌐 Come say hi
+
+<p align="center">
+  <a href="https://instagram.com/_hridayyyy_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hriday-jain-5791071a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
